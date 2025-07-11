@@ -24,7 +24,7 @@ Of course. Here is a `README.md` generated with the "Editor IDE Bee Script Max T
 
 Here is a view of the project's monorepo structure. Each top-level directory represents a primary function within the ecosystem.
 
-```
+
 ./ivbidaus/
 ├── 🌳 App/
 │   ├── core/               # Core business logic, shared across platforms
@@ -60,7 +60,7 @@ Here is a view of the project's monorepo structure. Each top-level directory rep
 ├── LICENSE
 ├── package.json            # Monorepo root package
 └── README.md               # You are here.
-```
+
 
 ## 🚀 Getting Started
 
